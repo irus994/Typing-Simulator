@@ -1,38 +1,124 @@
-.App {
+html {
+  background-color: #a3d9d2;
+  font-family: 'Helvetica', sans-serif;
+}
+
+body {
+  position: relative;
+}
+
+.header {
+  background-color: #a3ccd9;
+  height: 100px;
+  width: 60%;
+  margin: 50px auto 0 auto;
+  border-radius: 15px;
+  border: 1px #89d9ce solid;
+}
+
+.header__logo {
+  color: #FFFFFF;
+  font-size: 40px;
   text-align: center;
+  line-height: 100px;
+  position: center;
+  display: block;
+  font-weight: 300;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.text-block {
+  display: flex;
+  justify-content: space-between;
+  width: 60%;
+  margin: auto;
+  margin-top: 40px;
+  background-color: #FFFFFF;
+  border-radius: 15px;
+  min-height: 400px;
+  padding: 10px 10px 20px 10px;
+  box-sizing: border-box;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.text-block__text-area {
+  width: 75%;
+  border: none;
+  border-radius: 15px;
+  font-size: 30px;
+  padding: 10px;
+  color: rgba(105, 105, 105, 0.82);
+
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.text-block__text-area:focus {
+  outline: none;
+}
+
+.text-block__data {
   display: flex;
   flex-direction: column;
+  justify-content: space-around;
+  margin: 10px;
+  padding-right: 10px;
+
+}
+
+.text-block__text {
+  font-size: 25px;
+  color: #89d9ce;
+}
+
+.icon {
+  width: 55px;
+  height: 55px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.icon--time {
+  background-image: url("./img/clock.svg");
+}
+
+.icon--speed {
+  background-image: url("./img/speed.svg");
+}
+
+.icon--accuracy {
+  background-image: url("./img/accuracy.svg");
+}
+
+.text-block__result {
+  display: flex;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
+  margin: 20px 0 20px 0;
 }
 
-.App-link {
-  color: #61dafb;
+.text-block__data-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.button {
+  border-radius: 5px;
+  border: 1px #89d9ce solid;
+  font-size: 25px;
+  background-color: #a3ccd9;
+  color: #FFFFFF;
+  height: 45px;
+
+}
+
+.button:hover {
+  background-color: #73bad0;
+}
+
+.button--start {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 400px;
 }

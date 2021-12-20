@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  position: relative;
+  min-width: 800px;
 }
 
 .header {
@@ -35,18 +35,20 @@ body {
   background-color: #FFFFFF;
   border-radius: 15px;
   min-height: 400px;
+  min-width: 900px;
   padding: 10px 10px 20px 10px;
   box-sizing: border-box;
 }
 
 .text-block__text-area {
-  width: 75%;
-  border: none;
+  width: 300px;
   border-radius: 15px;
   font-size: 30px;
   padding: 10px;
   color: rgba(105, 105, 105, 0.82);
-
+  border: 1px rgba(105, 105, 105, 0.32) solid;
+  margin: 0 2px;
+  overflow-wrap: break-word;
 }
 
 .text-block__text-area:focus {
@@ -59,6 +61,8 @@ body {
   justify-content: space-around;
   margin: 10px;
   padding-right: 10px;
+  max-width: 150px;
+  min-width: 60px;
 
 }
 
@@ -121,4 +125,18 @@ body {
   top: 50%;
   left: 50%;
   width: 400px;
+}
+
+.success {
+  color: #FFFFFF;
+  background-color: rgba(6, 175, 6, 0.62);
+  margin-right: 7px;
+  padding: 1px;
+}
+
+.error {
+  color: #FFFFFF;
+  background-color: rgba(175, 6, 6, 0.62);
+  margin-right: 7px;
+  padding: 1px;
 }

@@ -16,7 +16,6 @@ export function Accuracy(props) {
             errorCount = errorCount + 1;
         }
     }
-    console.log(errorCount);
 
     return (
         <li className="text-block__data-item">

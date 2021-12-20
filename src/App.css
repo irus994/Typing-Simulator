@@ -11,6 +11,7 @@ body {
   background-color: #a3ccd9;
   height: 100px;
   width: 60%;
+  min-width: 900px;
   margin: 50px auto 0 auto;
   border-radius: 15px;
   border: 1px #89d9ce solid;
@@ -44,11 +45,15 @@ body {
   width: 300px;
   border-radius: 15px;
   font-size: 30px;
-  padding: 10px;
+  padding:  25px 10px;
   color: rgba(105, 105, 105, 0.82);
   border: 1px rgba(105, 105, 105, 0.32) solid;
   margin: 0 2px;
   overflow-wrap: break-word;
+}
+
+.text-block__text-area--result {
+  padding: 0 10px 10px 10px;
 }
 
 .text-block__text-area:focus {
@@ -84,6 +89,7 @@ body {
 
 .icon--speed {
   background-image: url("./img/speed.svg");
+  margin-right: 5px;
 }
 
 .icon--accuracy {

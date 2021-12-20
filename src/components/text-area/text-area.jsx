@@ -13,7 +13,6 @@ export function TextArea(props) {
            if (userText.length === exampleText.join(' ').length) {
                finallyTime = Math.floor(performance.now() / 1000);
                setFinallyTime(finallyTime);
-               console.log(finallyTime)
            }
         textChange(userText);
     }

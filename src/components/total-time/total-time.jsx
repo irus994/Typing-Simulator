@@ -14,8 +14,6 @@ export function TotalTime(props) {
         }
     }, [])
 
-    console.log(finallyTime)
-
     const time = timeStart === null ? 0 : Math.floor((performance.now() - timeStart) / 1000)
     return (
         <li className="text-block__data-item">

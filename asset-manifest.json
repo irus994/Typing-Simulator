@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/typing-simulator/static/css/main.cdd2ab0e.chunk.css",
+    "main.js": "/typing-simulator/static/js/main.b016ca5d.chunk.js",
+    "main.js.map": "/typing-simulator/static/js/main.b016ca5d.chunk.js.map",
+    "runtime-main.js": "/typing-simulator/static/js/runtime-main.8f5d80e3.js",
+    "runtime-main.js.map": "/typing-simulator/static/js/runtime-main.8f5d80e3.js.map",
+    "static/js/2.44f89750.chunk.js": "/typing-simulator/static/js/2.44f89750.chunk.js",
+    "static/js/2.44f89750.chunk.js.map": "/typing-simulator/static/js/2.44f89750.chunk.js.map",
+    "static/js/3.ad0a627b.chunk.js": "/typing-simulator/static/js/3.ad0a627b.chunk.js",
+    "static/js/3.ad0a627b.chunk.js.map": "/typing-simulator/static/js/3.ad0a627b.chunk.js.map",
+    "index.html": "/typing-simulator/index.html",
+    "static/css/main.cdd2ab0e.chunk.css.map": "/typing-simulator/static/css/main.cdd2ab0e.chunk.css.map",
+    "static/js/2.44f89750.chunk.js.LICENSE.txt": "/typing-simulator/static/js/2.44f89750.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/typing-simulator/static/media/speed.4b0e5ded.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f5d80e3.js",
+    "static/js/2.44f89750.chunk.js",
+    "static/css/main.cdd2ab0e.chunk.css",
+    "static/js/main.b016ca5d.chunk.js"
+  ]
+}

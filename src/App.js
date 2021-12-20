@@ -1,9 +1,12 @@
 import './App.css';
+import {HashRouter} from 'react-router-dom';
 import General from "./components/general/general";
 
 function App() {
   return (
-      <General/>
+      <HashRouter>
+        <General/>
+      </HashRouter>
   );
 }
 

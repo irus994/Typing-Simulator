@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Typing-Simulator/static/css/main.91eb1191.chunk.css",
-    "main.js": "/Typing-Simulator/static/js/main.b016ca5d.chunk.js",
-    "main.js.map": "/Typing-Simulator/static/js/main.b016ca5d.chunk.js.map",
-    "runtime-main.js": "/Typing-Simulator/static/js/runtime-main.7b62dffa.js",
-    "runtime-main.js.map": "/Typing-Simulator/static/js/runtime-main.7b62dffa.js.map",
-    "static/js/2.44f89750.chunk.js": "/Typing-Simulator/static/js/2.44f89750.chunk.js",
-    "static/js/2.44f89750.chunk.js.map": "/Typing-Simulator/static/js/2.44f89750.chunk.js.map",
-    "static/js/3.ad0a627b.chunk.js": "/Typing-Simulator/static/js/3.ad0a627b.chunk.js",
-    "static/js/3.ad0a627b.chunk.js.map": "/Typing-Simulator/static/js/3.ad0a627b.chunk.js.map",
+    "main.js": "/Typing-Simulator/static/js/main.27a7ba88.chunk.js",
+    "main.js.map": "/Typing-Simulator/static/js/main.27a7ba88.chunk.js.map",
+    "runtime-main.js": "/Typing-Simulator/static/js/runtime-main.93f2fb47.js",
+    "runtime-main.js.map": "/Typing-Simulator/static/js/runtime-main.93f2fb47.js.map",
+    "static/js/2.ca638239.chunk.js": "/Typing-Simulator/static/js/2.ca638239.chunk.js",
+    "static/js/2.ca638239.chunk.js.map": "/Typing-Simulator/static/js/2.ca638239.chunk.js.map",
+    "static/js/3.eade649d.chunk.js": "/Typing-Simulator/static/js/3.eade649d.chunk.js",
+    "static/js/3.eade649d.chunk.js.map": "/Typing-Simulator/static/js/3.eade649d.chunk.js.map",
     "index.html": "/Typing-Simulator/index.html",
     "static/css/main.91eb1191.chunk.css.map": "/Typing-Simulator/static/css/main.91eb1191.chunk.css.map",
-    "static/js/2.44f89750.chunk.js.LICENSE.txt": "/Typing-Simulator/static/js/2.44f89750.chunk.js.LICENSE.txt",
+    "static/js/2.ca638239.chunk.js.LICENSE.txt": "/Typing-Simulator/static/js/2.ca638239.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Typing-Simulator/static/media/speed.4b0e5ded.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b62dffa.js",
-    "static/js/2.44f89750.chunk.js",
+    "static/js/runtime-main.93f2fb47.js",
+    "static/js/2.ca638239.chunk.js",
     "static/css/main.91eb1191.chunk.css",
-    "static/js/main.b016ca5d.chunk.js"
+    "static/js/main.27a7ba88.chunk.js"
   ]
 }

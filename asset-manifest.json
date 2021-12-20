@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Typing-Simulator/static/css/main.91eb1191.chunk.css",
+    "main.css": "/Typing-Simulator/static/css/main.3decfd17.chunk.css",
     "main.js": "/Typing-Simulator/static/js/main.27a7ba88.chunk.js",
     "main.js.map": "/Typing-Simulator/static/js/main.27a7ba88.chunk.js.map",
     "runtime-main.js": "/Typing-Simulator/static/js/runtime-main.93f2fb47.js",
@@ -10,14 +10,14 @@
     "static/js/3.eade649d.chunk.js": "/Typing-Simulator/static/js/3.eade649d.chunk.js",
     "static/js/3.eade649d.chunk.js.map": "/Typing-Simulator/static/js/3.eade649d.chunk.js.map",
     "index.html": "/Typing-Simulator/index.html",
-    "static/css/main.91eb1191.chunk.css.map": "/Typing-Simulator/static/css/main.91eb1191.chunk.css.map",
+    "static/css/main.3decfd17.chunk.css.map": "/Typing-Simulator/static/css/main.3decfd17.chunk.css.map",
     "static/js/2.ca638239.chunk.js.LICENSE.txt": "/Typing-Simulator/static/js/2.ca638239.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Typing-Simulator/static/media/speed.4b0e5ded.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.93f2fb47.js",
     "static/js/2.ca638239.chunk.js",
-    "static/css/main.91eb1191.chunk.css",
+    "static/css/main.3decfd17.chunk.css",
     "static/js/main.27a7ba88.chunk.js"
   ]
 }
